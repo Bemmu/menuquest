@@ -10,4 +10,4 @@ It is a **dangerous journey**, but victory **is** possible. *Or at least happine
 
 #[PLAY](http://www.bemmu.com/static/menuquest.swf)
 
-
+Written for Bacon Game Jam 8.
